@@ -7,7 +7,7 @@ import Geirangerfjord from './images/Geirangerfjord.png';
 const data = [
     {
         id: 1,
-        image: fuji,
+        image: "https://source.unsplash.com/WLxQvbMyfas",
         country: "JAPAN",
         location: "Mount Fuji",
         date: "12 Jan, 2021 - 24 Jan, 2021",
@@ -16,7 +16,7 @@ const data = [
 
     {
         id: 2,
-        image: Sydney,
+        image: "https://source.unsplash.com/JmuyB_LibRo",
         country: "AUSTRALIA",
         location: "Sydney Opera House",
         date: "27 May, 2021 - 8 Jun, 2021",
@@ -25,7 +25,7 @@ const data = [
 
     {
         id: 3,
-        image: Geirangerfjord,
+        image: "https://source.unsplash.com/3PeSjpLVtLg",
         country: "NORWAY",
         location: 'Geirangerfjord',
         date: "01 Oct, 2021 - 18 Nov, 2021",

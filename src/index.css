@@ -35,9 +35,16 @@ nav p {
   display: flex;
   height: 200px;
   width: 80%;
-  margin-left: 40px;
+  margin-left: 50px;
   margin-top: 60px;
+  margin-bottom: 30px;
   gap: 20px;
+}
+
+#locationImg {
+  width: 180px;
+  height: 200px;
+  border-radius: 5px;
 }
 
 section {
@@ -95,7 +102,7 @@ h6 {
   font-size: 1em;
   line-height: 150%;
   color: #2B283A;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 
